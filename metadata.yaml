@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42015
     wikipedia: http://en.wikipedia.org/wiki/Princess_Louise_of_Belgium
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43086#My-Own-Affairs
 gutenberg_issued: '2013-07-03'
 gutenberg_type: Text
 identifiers:
