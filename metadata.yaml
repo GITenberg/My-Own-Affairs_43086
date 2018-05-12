@@ -1,0 +1,37 @@
+_repo: My-Own-Affairs_43086
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ffoulkes, Maude M. C.
+    gutenberg_agent_id: '42025'
+    url: http://www.gutenberg.org/2009/agents/42025
+covers:
+- cover_type: archival
+  image_path: 43086-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Louise, Princess of Belgium
+    aliases:
+    - Louise, de Saxe-Cobourg
+    - Luise, Princess of Belgium
+    - Louise, von Sachsen-Coburg
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '42015'
+    url: http://www.gutenberg.org/2009/agents/42015
+    wikipedia: http://en.wikipedia.org/wiki/Princess_Louise_of_Belgium
+description: ''
+gutenberg_issued: '2013-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43086'
+  lccn: '21012090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DH'
+- !lcsh 'Courts and courtiers'
+title: My Own Affairs
+url: http://www.gutenberg.org/ebooks/43086
